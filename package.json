@@ -1,0 +1,21 @@
+{
+  "name": "applet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "pug": "^2.0.0-rc.4",
+    "ramda": "^0.24.1",
+    "regenerator-runtime": "^0.10.5",
+    "tween.js": "^16.6.0"
+  }
+}
