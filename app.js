@@ -1,5 +1,5 @@
 //app.js
-import "./style/base/sass"  //引入sass
+import "./style/base.sass"  //引入sass
 import "./vendor"  //全局方法
 
 App({
